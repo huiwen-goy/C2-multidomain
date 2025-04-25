@@ -4,8 +4,8 @@ The Qualtrics survey was emailed on Nov 8, 2019 to 1968 participants, based on a
 
 ### Data quality
 [Go to page](https://huiwen-goy.github.io/C2-multidomain/C2-1Quality.html)  
-Missingness  
-Time to complete survey  
+* Missingness  
+* Time to complete survey  
 
 ### Questionnaire sections and scales
   
