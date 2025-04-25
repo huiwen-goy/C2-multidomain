@@ -41,7 +41,7 @@ The Qualtrics survey was emailed on Nov 8, 2019 to 1968 participants, based on a
 * Satisfaction With Life Scale  
 * WHOQOL-BREF  
 
-[**Mental health**] (https://huiwen-goy.github.io/C2-multidomain/C2-8Mental.html) 
+[**Mental health**](https://huiwen-goy.github.io/C2-multidomain/C2-8Mental.html) 
 * PHQ-4  
 * Loneliness  
 
