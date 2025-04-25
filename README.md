@@ -9,60 +9,61 @@ Time to complete survey
 
 ### Questionnaire sections and scales
   
-##### Demographics
+#### Demographics
 [Go to page](https://huiwen-goy.github.io/C2-multidomain/C2-2Demographic.html)  
-Age and gender  
-Work and volunteering  
-Marital status  
+* Age and gender  
+* Work and volunteering  
+* Marital status  
 
-##### Physical health
+#### Physical health
 [Go to page](https://huiwen-goy.github.io/C2-multidomain/C2-3Physical.html)  
-Physical health self-rating  
-Co-morbidities  
-Multimorbidity score  
-Subjective vision  
-Subjective hearing  
+* Physical health self-rating  
+* Co-morbidities  
+* Multimorbidity score  
+* Subjective vision  
+* Subjective hearing  
 
-##### Hearing
+#### Hearing
 [Go to page](https://huiwen-goy.github.io/C2-multidomain/C2-4Hearing.html)  
-IOI-HA  
-Tinnitus  
-15i-SSQ  
-Social Isolation Measure  
-EmoCheQ  
-HHIE-S  
+* Audiograms
+* IOI-HA  
+* Tinnitus  
+* 15i-SSQ  
+* Social Isolation Measure  
+* EmoCheQ  
+* HHIE-S  
 
-#####  Cognition 
+####  Cognition 
 [Go to page](https://huiwen-goy.github.io/C2-multidomain/C2-5Cognition.html)  
-Subjective cognitive impairment  
-Cognitive Self-Report Questionnaire  
+* Subjective cognitive impairment  
+* Cognitive Self-Report Questionnaire  
 
-##### Mobility and balance
-[Go to page](https://huiwen-goy.github.io/C2-multidomain/)  
-Mobility aids  
-Activities-Specific Balance Confidence scale  
-
-##### Quality of life
+#### Mobility and balance
 [Go to page](https://huiwen-goy.github.io/C2-multidomain/C2-6Mobility.html)  
-Satisfaction With Life Scale  
-WHOQOL-BREF  
+* Mobility aids  
+* Activities-Specific Balance Confidence scale  
 
-##### Mental health  
+#### Quality of life
+[Go to page](https://huiwen-goy.github.io/C2-multidomain/C2-7QoL.html)  
+* Satisfaction With Life Scale  
+* WHOQOL-BREF  
+
+#### Mental health  
 [Go to page](https://huiwen-goy.github.io/C2-multidomain/C2-8Mental.html) 
-PHQ-4  
-Loneliness  
+* PHQ-4  
+* Loneliness  
 
-##### Social participation and support
+#### Social participation and support
 [Go to page](https://huiwen-goy.github.io/C2-multidomain/C2-9Social.html)  
-Social Network Index  
-Social participation (CCHS)  
-General Relationship Satisfaction  
-MOS Social Support (CLSA version)  
+* Social Network Index  
+* Social participation (CCHS)  
+* General Relationship Satisfaction  
+* MOS Social Support (CLSA version)  
 
-##### Views on hearing loss
+#### Views on hearing loss
 [Go to page](https://huiwen-goy.github.io/C2-multidomain/C2-10Views.html)  
-Health associations with hearing loss  
-Motivations to seek help  
+* Health associations with hearing loss  
+* Motivations to seek help  
 
 
 
