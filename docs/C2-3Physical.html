@@ -463,25 +463,31 @@ are considered to have a chronic disease only if they responded
 <h1>Subjective hearing</h1>
 <p><a href="#top">back to top</a></p>
 <p>Responses are 3 discrete options, Yes / No / Don’t know.</p>
-<pre><code>##   Subjective_hearing_loss Freq
+<p>Observation: Respondents seem to be confused by the question “Is your
+hearing, using a hearing aid if you use one…”, resulting in a lot of
+N/A’s, even though they don’t seem to be confused by the vision version
+of the same question just before (“Is your eyesight, using glasses or
+corrective lens if you use them…”)</p>
+<pre><code>##   Subjective_hearing_loss    %
 ## 1                     Yes 62.0
 ## 2                      No 30.2
 ## 3              Don&#39;t know  0.0
 ## 4                    &lt;NA&gt;  7.8</code></pre>
-<pre><code>##   Subjective_hearing_rating Freq
+<pre><code>##   Subjective_hearing_rating    %
 ## 1                      Poor  1.5
 ## 2                      Fair  7.6
 ## 3                      Good 21.3
 ## 4                 Very good 22.4
 ## 5                 Excellent 15.2
 ## 6                      &lt;NA&gt; 32.1</code></pre>
-<pre><code>##            
-##             HA noHA
-##   Poor       0    8
-##   Fair       2   38
-##   Good      27   85
-##   Very good 49   69
-##   Excellent 25   55</code></pre>
+<pre><code>##   Age_subj_HL_began    %
+## 1               0-5  0.6
+## 2              6-10  1.5
+## 3             11-20  2.1
+## 4             21-40 10.1
+## 5             41-60 37.6
+## 6           Over 60 44.3
+## 7              &lt;NA&gt;  3.7</code></pre>
 <pre><code>##            
 ##               HA noHA
 ##   Poor       0.0  3.1
@@ -495,7 +501,7 @@ are considered to have a chronic disease only if they responded
 <h1>Other variables available</h1>
 <p><a href="#top">back to top</a></p>
 <ul>
-<li>Age when vision or hearing loss began<br />
+<li>Age when vision loss began<br />
 </li>
 <li>Vision or hearing aids used<br />
 </li>
