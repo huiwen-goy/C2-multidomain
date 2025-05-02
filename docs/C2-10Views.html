@@ -371,38 +371,165 @@ of life |</a> <a href="https://huiwen-goy.github.io/C2-multidomain/C2-8Mental.ht
 health |</a> <a href="https://huiwen-goy.github.io/C2-multidomain/C2-9Social.html">Social
 participation and support |</a></p>
 <p><br></p>
-<p>Note: The items in these two final sections were created by HG and
-not based on any particular questionnaires.</p>
+<p>Note that non-HA users are all 424 respondents who did not report
+that they used hearing aids, while HA users are 103 respondents who said
+they used hearing aids in the Physical Health (Subjective Hearing)
+section. A fairer comparison might be to match non-HA users with HA
+users on a wider set of characteristics, but looking at the ranges of
+age, worse-ear PTA4, and better-ear PTA4, the two groups completely
+overlap.</p>
 <p><br></p>
 <p><strong>Do you think there is any association between hearing loss
 and…?</strong></p>
-<p>Percentages of respondents choosing each option:</p>
+<p>% of <strong>non-HA</strong> users who chose each strength of
+connection (rows sum to 100%).</p>
 <pre><code>##                  None Slight Moderate Strong VStrong MISSING
-## arthritis        64.5   17.6      8.2    2.5     0.6     6.6
-## autism           55.6   17.1     12.3    5.7     1.5     7.8
-## diabetes         48.8   21.6     13.1    8.0     1.9     6.6
-## cardiovascular   41.7   24.1     18.2    7.8     1.1     7.0
-## cognitive        22.6   17.5     24.1   21.4     8.0     6.5
-## gastrointestinal 77.0   10.8      4.4    0.9     0.2     6.6
-## microcebia       60.0   12.7      5.1    3.0     0.8    18.4
-## balance          11.4   12.9     25.2   27.5    17.1     5.9
-## mental health    19.5   19.0     24.5   20.7    10.1     6.3</code></pre>
+## arthritis        62.3   18.4      9.2    2.8     0.5     6.8
+## autism           51.4   18.4     13.7    6.6     1.9     8.0
+## diabetes         46.0   21.5     15.1    9.0     1.9     6.6
+## cardiovascular   38.9   24.1     19.8    8.5     1.4     7.3
+## cognitive        20.0   18.2     23.8   22.6     9.0     6.4
+## gastrointestinal 75.2   12.5      4.2    0.9     0.2     6.8
+## microcebia       56.8   13.9      5.4    3.5     0.9    19.3
+## balance          10.1   13.0     23.8   28.1    19.1     5.9
+## mental health    19.1   18.6     23.1   21.5    11.3     6.4</code></pre>
+<p>% of <strong>HA</strong> users who chose each strength of
+connection.</p>
+<pre><code>##                  None Slight Moderate Strong VStrong MISSING
+## arthritis        73.8   14.6      3.9    1.0     1.0     5.8
+## autism           72.8   11.7      6.8    1.9     0.0     6.8
+## diabetes         60.2   22.3      4.9    3.9     1.9     6.8
+## cardiovascular   53.4   24.3     11.7    4.9     0.0     5.8
+## cognitive        33.0   14.6     25.2   16.5     3.9     6.8
+## gastrointestinal 84.5    3.9      4.9    1.0     0.0     5.8
+## microcebia       72.8    7.8      3.9    1.0     0.0    14.6
+## balance          16.5   12.6     31.1   25.2     8.7     5.8
+## mental health    21.4   20.4     30.1   17.5     4.9     5.8</code></pre>
+<p><br> According to chi-squared tests of independence, non-HA users and
+HA users had similar patterns of associations for arthritis,
+gastrointestinal, microcebia (a foil), and mental health. Non-HA users
+and HA users had different patterns of associations on these items (rows
+sum to 100%):</p>
+<ol start="2" style="list-style-type: decimal">
+<li>autism (p-value = 0.001789)</li>
+</ol>
+<pre><code>##       
+##             1      2      3      4      5   &lt;NA&gt;
+##   noHA 51.415 18.396 13.679  6.604  1.887  8.019
+##   HA   72.816 11.650  6.796  1.942  0.000  6.796
+##   &lt;NA&gt;</code></pre>
+<ol start="3" style="list-style-type: decimal">
+<li>diabetes (p-value = 0.01233)</li>
+</ol>
+<pre><code>##       
+##             1      2      3      4      5   &lt;NA&gt;
+##   noHA 45.991 21.462 15.094  8.962  1.887  6.604
+##   HA   60.194 22.330  4.854  3.883  1.942  6.796
+##   &lt;NA&gt;</code></pre>
+<ol start="4" style="list-style-type: decimal">
+<li>cardiovascular (p-value = 0.04137)</li>
+</ol>
+<pre><code>##       
+##             1      2      3      4      5   &lt;NA&gt;
+##   noHA 38.915 24.057 19.811  8.491  1.415  7.311
+##   HA   53.398 24.272 11.650  4.854  0.000  5.825
+##   &lt;NA&gt;</code></pre>
+<ol start="5" style="list-style-type: decimal">
+<li>cognitive (p-value = 0.02637)</li>
+</ol>
+<pre><code>##       
+##             1      2      3      4      5   &lt;NA&gt;
+##   noHA 20.047 18.160 23.821 22.642  8.962  6.368
+##   HA   33.010 14.563 25.243 16.505  3.883  6.796
+##   &lt;NA&gt;</code></pre>
+<ol start="8" style="list-style-type: decimal">
+<li>mental health (p-value = 0.03831)</li>
+</ol>
+<pre><code>##       
+##             1      2      3      4      5   &lt;NA&gt;
+##   noHA 10.142 12.972 23.821 28.066 19.104  5.896
+##   HA   16.505 12.621 31.068 25.243  8.738  5.825
+##   &lt;NA&gt;</code></pre>
 <p><br></p>
 <p><strong>Which of the following hypothetical reasons would motivate
 you to seek help for a potential hearing problem; for instance, by
 speaking to a family physician about it?</strong></p>
-<p>Percentages of respondents choosing each option:</p>
+<p><a href="#top">back to top</a></p>
+<p>% of non-HA users who chose each strength of motivation (rows sum to
+100%).</p>
 <pre><code>##                       NotAtAll Slight Moderate QuiteALot VeryMuch MISSING
-## spch conversations         1.7    7.4     15.4      36.2     34.9     4.4
-## spch lecture theatre       2.8   10.4     20.7      37.6     23.9     4.6
-## tv radio music             3.2    8.3     19.7      34.0     30.4     4.4
-## complaints fr family       1.7    3.4     16.7      29.4     44.4     4.4
-## complaints fr friends      2.1    4.6     14.6      34.7     39.7     4.4
-## social int, actv           2.1    7.4     20.5      33.6     31.9     4.6
-## feel sad/frustr            4.6    6.8     15.0      32.8     36.2     4.6
-## feel fatigued              7.4    9.9     15.9      28.8     32.8     5.1
-## health problems           10.6    8.0     18.0      27.5     30.9     4.9
-## cognitive problems         6.1    7.8     14.8      29.6     37.0     4.7</code></pre>
+## spch conversations         1.9    7.1     16.0      35.8     34.4     4.7
+## spch lecture theatre       2.4   10.8     21.2      37.5     23.1     5.0
+## tv radio music             3.1    8.3     20.3      33.0     30.7     4.7
+## complaints fr family       1.7    3.5     17.5      31.4     41.3     4.7
+## complaints fr friends      1.7    3.8     15.6      35.6     38.7     4.7
+## social int, actv           1.4    7.1     20.3      35.8     30.4     5.0
+## feel sad/frustr            3.5    5.7     14.4      34.2     37.3     5.0
+## feel fatigued              6.1    9.0     15.3      30.9     33.0     5.7
+## health problems            9.9    8.3     17.9      27.8     30.7     5.4
+## cognitive problems         5.7    7.1     16.7      28.8     36.6     5.2</code></pre>
+<p>% of HA users who chose each strength of motivation.</p>
+<pre><code>##                       NotAtAll Slight Moderate QuiteALot VeryMuch MISSING
+## spch conversations         1.0    8.7     12.6      37.9     36.9     2.9
+## spch lecture theatre       4.9    8.7     18.4      37.9     27.2     2.9
+## tv radio music             3.9    8.7     17.5      37.9     29.1     2.9
+## complaints fr family       1.9    2.9     13.6      21.4     57.3     2.9
+## complaints fr friends      3.9    7.8     10.7      31.1     43.7     2.9
+## social int, actv           4.9    8.7     21.4      24.3     37.9     2.9
+## feel sad/frustr            8.7   11.7     17.5      27.2     32.0     2.9
+## feel fatigued             12.6   13.6     18.4      20.4     32.0     2.9
+## health problems           13.6    6.8     18.4      26.2     32.0     2.9
+## cognitive problems         7.8   10.7      6.8      33.0     38.8     2.9</code></pre>
+<p><br></p>
+<p>According to chi-squared tests of independence, motivations differed
+between non-HA users and HA users on these items (item 4 included for
+interest but not significantly different between groups):</p>
+<ol start="4" style="list-style-type: decimal">
+<li>Complaints about my hearing from my spouse or partner, or a close
+family member, p-value = 0.07935</li>
+</ol>
+<pre><code>##       
+##        NotAtAll Slight Moderate QuiteALot VeryMuch &lt;NA&gt;
+##   noHA      1.7    3.5     17.5      31.4     41.3  4.7
+##   HA        1.9    2.9     13.6      21.4     57.3  2.9
+##   &lt;NA&gt;</code></pre>
+<ol start="6" style="list-style-type: decimal">
+<li>Feeling that I am missing out on social interactions or activities
+because of my hearing, p-value = 0.047</li>
+</ol>
+<pre><code>##       
+##        NotAtAll Slight Moderate QuiteALot VeryMuch &lt;NA&gt;
+##   noHA      1.4    7.1     20.3      35.8     30.4  5.0
+##   HA        4.9    8.7     21.4      24.3     37.9  2.9
+##   &lt;NA&gt;</code></pre>
+<ol start="7" style="list-style-type: decimal">
+<li>Feeling sad or frustrated because of my hearing, p-value =
+0.02165</li>
+</ol>
+<pre><code>##       
+##        NotAtAll Slight Moderate QuiteALot VeryMuch &lt;NA&gt;
+##   noHA      3.5    5.7     14.4      34.2     37.3  5.0
+##   HA        8.7   11.7     17.5      27.2     32.0  2.9
+##   &lt;NA&gt;</code></pre>
+<ol start="8" style="list-style-type: decimal">
+<li>Feeling fatigued because of my hearing, p-value = 0.03179</li>
+</ol>
+<pre><code>##       
+##        NotAtAll Slight Moderate QuiteALot VeryMuch &lt;NA&gt;
+##   noHA      6.1    9.0     15.3      30.9     33.0  5.7
+##   HA       12.6   13.6     18.4      20.4     32.0  2.9
+##   &lt;NA&gt;</code></pre>
+<p>Non-HA users and HA users did not differ on the following
+items:<br />
+* 1. Problems understanding speech during conversations with other
+people<br />
+* 2. Problems understanding speech in a lecture or theatre<br />
+* 3. Problems listening to the television or radio, or music<br />
+* 5. Complaints about my hearing from friends or colleagues<br />
+* 9. Learning that there is a higher risk of hearing loss associated
+with some health problems, such as diabetes<br />
+* 10. Learning that there is a higher risk of hearing loss associated
+with some cognitive problems, such as memory problems</p>
 <p><br></p>
 <div id="other-variables-available" class="section level1">
 <h1>Other variables available</h1>
