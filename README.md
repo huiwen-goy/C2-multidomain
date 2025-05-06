@@ -56,7 +56,11 @@ The Qualtrics survey was emailed in Nov 2019 to 1968 participants, based on a li
 
 [**Views on hearing loss**](https://huiwen-goy.github.io/C2-multidomain/C2-10Views.html)  
 * Health associations with hearing loss  
-* Motivations to seek help  
+* Motivations to seek help
+
+### Analyses  
+
+[**Predicting subjective hearing loss from sensory and non-sensory factors**](https://huiwen-goy.github.io/C2-multidomain/C2-11Analyses.html)  
 
 
 
