@@ -1,14 +1,19 @@
 
 <details>
-<summary> **Survey overview** </summary>
-The Qualtrics survey was emailed in Nov 2019 to 1968 participants, based on a list of Stigma participants who consented to participate in further research and provided emails. 527 participants (26.8%) consented to participate in this survey from Nov 2019-Jan 2020. For the remainder, 212 emails failed; 3 emails were considered duplicates and skipped by Qualtrics; 2 opted out via Qualtrics; 26 responded to the invitation but declined to participate; and there was no response from the rest, except for a few who emailed the study coordinator directly to decline.   
+<summary> 
+### Survey overview
+</summary>
+The Qualtrics survey was emailed to 1968 participants, based on a list of Stigma participants who consented to participate in further research and provided emails. 527 participants (26.8%) consented to participate in this survey. For the remainder, 212 emails failed; 3 emails were considered duplicates and skipped by Qualtrics; 2 opted out via Qualtrics; 26 responded to the invitation but declined to participate; and there was no response from the rest, except for a few who emailed the study coordinator directly to decline.   
 
 [**Data quality**](https://huiwen-goy.github.io/C2-multidomain/C2-1Quality.html)  
 * Missingness  
-* Time to complete survey  
+* Time to complete survey
 </details>
 
+<details>
+<summary> 
 ### Questionnaire sections and scales
+</summary> 
   
 [**Demographics**](https://huiwen-goy.github.io/C2-multidomain/C2-2Demographic.html)  
 * Age and gender  
@@ -59,6 +64,7 @@ The Qualtrics survey was emailed in Nov 2019 to 1968 participants, based on a li
 [**Views on hearing loss**](https://huiwen-goy.github.io/C2-multidomain/C2-10Views.html)  
 * Health associations with hearing loss  
 * Motivations to seek help
+</details>
 
 ### Analyses  
 
