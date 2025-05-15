@@ -1,19 +1,30 @@
+### Survey
 
 <details>
-<summary> 
-### Survey overview
-</summary>
+  <summary> 
+  
+  **Overview and data quality**
+
+  </summary>
+
 The Qualtrics survey was emailed to 1968 participants, based on a list of Stigma participants who consented to participate in further research and provided emails. 527 participants (26.8%) consented to participate in this survey. For the remainder, 212 emails failed; 3 emails were considered duplicates and skipped by Qualtrics; 2 opted out via Qualtrics; 26 responded to the invitation but declined to participate; and there was no response from the rest, except for a few who emailed the study coordinator directly to decline.   
 
 [**Data quality**](https://huiwen-goy.github.io/C2-multidomain/C2-1Quality.html)  
 * Missingness  
 * Time to complete survey
+
 </details>
 
+<br>
+
+### Questionnaire sections
+
 <details>
-<summary> 
-### Questionnaire sections and scales
-</summary> 
+  <summary> 
+
+  **Scales and plots**
+  
+  </summary> 
   
 [**Demographics**](https://huiwen-goy.github.io/C2-multidomain/C2-2Demographic.html)  
 * Age and gender  
@@ -64,11 +75,19 @@ The Qualtrics survey was emailed to 1968 participants, based on a list of Stigma
 [**Views on hearing loss**](https://huiwen-goy.github.io/C2-multidomain/C2-10Views.html)  
 * Health associations with hearing loss  
 * Motivations to seek help
+
 </details>
+
+<br>
 
 ### Analyses  
 
-[**Predicting subjective hearing loss from sensory and non-sensory factors**](https://huiwen-goy.github.io/C2-multidomain/C2-11Analyses.html)  
+[**Comparing adopters and non-adopters**](https://huiwen-goy.github.io/C2-multidomain/C2-12AdoptersH.html)   
+<br>
+[**Regression: Predicting subjective hearing loss from sensory and non-sensory variables**](C2-11RegressionH.html)
+<br>
+[**Regression: Predicting subjective hearing loss from other hearing variables**](C2-13RegressionAll.html)
+<br>
 
 
 
