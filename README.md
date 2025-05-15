@@ -75,10 +75,11 @@ The Qualtrics survey was emailed to 1968 participants, based on a list of Stigma
 ### Analyses  
 
 [**Comparing adopters and non-adopters**](https://huiwen-goy.github.io/C2-multidomain/C2-12AdoptersH.html)   
+[**Flow chart**](https://huiwen-goy.github.io/C2-multidomain/C2-Multidomain_HA_3_groups.pdf)  
 <br>
-[**Regression: Predicting subjective hearing loss from sensory and non-sensory variables**](C2-11RegressionH.html)  
+[**Regression: Predicting subjective hearing loss from sensory and non-sensory variables**](https://huiwen-goy.github.io/C2-multidomain/C2-11RegressionH.html)  
 <br>
-[**Regression: Predicting subjective hearing loss from other hearing variables**](C2-13RegressionAll.html)  
+[**Regression: Predicting subjective hearing loss from other hearing variables**](https://huiwen-goy.github.io/C2-multidomain/C2-13RegressionAll.html)  
 <br>
 
 
