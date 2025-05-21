@@ -1,9 +1,13 @@
-### Survey
+### About this study
+
+  
+
+<br>
+
+### Data quality
 
 <details>
-  <summary> <b> Overview and data quality </b> </summary>
-
-The Qualtrics survey was emailed to 1968 participants, based on a list of Stigma participants who consented to participate in further research and provided emails. 527 participants (26.8%) consented to participate in this survey. For the remainder, 212 emails failed; 3 emails were considered duplicates and skipped by Qualtrics; 2 opted out via Qualtrics; 26 responded to the invitation but declined to participate; and there was no response from the rest, except for a few who emailed the study coordinator directly to decline.   
+  <summary> <b> Dropdown </b> </summary> 
 
 [**Data quality**](https://huiwen-goy.github.io/C2-multidomain/C2-1Quality.html)  
 * Missingness  
@@ -16,7 +20,7 @@ The Qualtrics survey was emailed to 1968 participants, based on a list of Stigma
 ### Questionnaire sections
 
 <details>
-  <summary> <b> Scales and plots </b> </summary> 
+  <summary> <b> Dropdown </b> </summary> 
   
 [**Demographics**](https://huiwen-goy.github.io/C2-multidomain/C2-2Demographic.html)  
 * Age and gender  
@@ -43,7 +47,7 @@ The Qualtrics survey was emailed to 1968 participants, based on a list of Stigma
 * Correlation between measures  
 
 [**Cognition**](https://huiwen-goy.github.io/C2-multidomain/C2-5Cognition.html)  
-* Subjective cognitive impairment  
+* Subjective Cognitive Impairment  
 * Cognitive Self-Report Questionnaire  
 
 [**Mobility and balance**](https://huiwen-goy.github.io/C2-multidomain/C2-6Mobility.html)  
@@ -74,17 +78,13 @@ The Qualtrics survey was emailed to 1968 participants, based on a list of Stigma
 
 ### Analyses  
 
-[**Comparing adopters and non-adopters**](https://huiwen-goy.github.io/C2-multidomain/C2-12AdoptersH.html)   
-[**Flow chart**](https://huiwen-goy.github.io/C2-multidomain/C2-Multidomain_HA_3_groups.pdf)  
-<br>
-[**Regression: Predicting subjective hearing loss from sensory and non-sensory variables**](https://huiwen-goy.github.io/C2-multidomain/C2-11RegressionH.html)  
-<br>
-[**Regression: Predicting subjective hearing loss from other hearing variables**](https://huiwen-goy.github.io/C2-multidomain/C2-13RegressionAll.html)  
+[**(1) What makes someone adopt hearing aids?**](https://huiwen-goy.github.io/C2-multidomain/)  
+
 <br>
 
+[**(2) What makes someone self-report hearing loss?**](https://huiwen-goy.github.io/C2-multidomain/)  
 
-
-
+<br>
 
 
 
