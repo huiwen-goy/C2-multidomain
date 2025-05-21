@@ -9,6 +9,8 @@
 <details>
   <summary> <b> Dropdown </b> </summary> 
 
+<br>
+
 [**Data quality**](https://huiwen-goy.github.io/C2-multidomain/C2-1Quality.html)  
 * Missingness  
 * Time to complete survey
@@ -21,7 +23,9 @@
 
 <details>
   <summary> <b> Dropdown </b> </summary> 
-  
+
+<br>
+
 [**Demographics**](https://huiwen-goy.github.io/C2-multidomain/C2-2Demographic.html)  
 * Age and gender  
 * Work and volunteering  
@@ -79,8 +83,6 @@
 ### Analyses  
 
 [**(1) What makes someone adopt hearing aids?**](https://huiwen-goy.github.io/C2-multidomain/)  
-
-<br>
 
 [**(2) What makes someone self-report hearing loss?**](https://huiwen-goy.github.io/C2-multidomain/)  
 
