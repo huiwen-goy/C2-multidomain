@@ -6,16 +6,9 @@
 
 ### Data quality
 
-<details>
-  <summary> <b> Dropdown </b> </summary> 
-
-<br>
-
 [**Data quality**](https://huiwen-goy.github.io/C2-multidomain/C2-1Quality.html)  
 * Missingness  
 * Time to complete survey
-
-</details>
 
 <br>
 
