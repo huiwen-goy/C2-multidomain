@@ -75,9 +75,7 @@
 
 ### Analyses  
 
-[**(1) What makes someone adopt hearing aids?**](https://huiwen-goy.github.io/C2-multidomain/)  
-
-[**(2) What makes someone self-report hearing loss?**](https://huiwen-goy.github.io/C2-multidomain/)  
+[**Summary page**](https://huiwen-goy.github.io/C2-multidomain/C2-11Analyses.html)  
 
 <br>
 
