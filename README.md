@@ -4,12 +4,17 @@
 
 <br>
 
-### Data quality
+### Metadata
 
+<details>
+  <summary> <b> Dropdown </b> </summary> 
+  
 [**Data quality**](https://huiwen-goy.github.io/C2-multidomain/C2-1Quality.html)  
 * Missingness  
 * Time to complete survey
-
+  
+</details>
+  
 <br>
 
 ### Questionnaire sections
@@ -75,9 +80,9 @@
 
 ### Analyses  
 
-[**Missing data imputation**](https://huiwen-goy.github.io/C2-multidomain/C2-201AdoptersImpute.html)  
+[**Complete cases only**](https://huiwen-goy.github.io/C2-multidomain/C2-11Analyses.html)  
 
-[**Analyses overview**](https://huiwen-goy.github.io/C2-multidomain/C2-11Analyses.html)  
+[**Missing data imputation**]()  
 
 <br>
 
