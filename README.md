@@ -8,7 +8,9 @@
 
 <details>
   <summary> <b> Dropdown </b> </summary> 
-  
+
+<br>
+
 [Missingness, time to complete](https://huiwen-goy.github.io/C2-multidomain/C2-1Quality.html)  
   
 </details>
