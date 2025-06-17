@@ -9,9 +9,7 @@
 <details>
   <summary> <b> Dropdown </b> </summary> 
   
-[**Data quality**](https://huiwen-goy.github.io/C2-multidomain/C2-1Quality.html)  
-* Missingness  
-* Time to complete survey
+[Missingness, time to complete](https://huiwen-goy.github.io/C2-multidomain/C2-1Quality.html)  
   
 </details>
   
@@ -82,7 +80,7 @@
 
 [**Complete cases only**](https://huiwen-goy.github.io/C2-multidomain/C2-11Analyses.html)  
 
-[**Missing data imputation**]()  
+[**Missing data imputation**](https://huiwen-goy.github.io/C2-multidomain/C2-201Imputation.html)  
 
 <br>
 
