@@ -82,8 +82,6 @@
 
 ### Analyses  
 
-[**Complete cases only**](https://huiwen-goy.github.io/C2-multidomain/C2-11Analyses.html)  
-
 [**Missing data imputation**](https://huiwen-goy.github.io/C2-multidomain/C2-201Imputation.html)  
 
 <br>
