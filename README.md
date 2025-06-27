@@ -1,7 +1,5 @@
 ### About this study
 
-<br>
-
 [Variables map](https://huiwen-goy.github.io/C2-multidomain/Md_map_ICF.pdf)  
 
 <br>
