@@ -7,7 +7,7 @@
 [Cognition](https://huiwen-goy.github.io/C2-multidomain/C2-5Cognition.html)  
 [Mobility and balance](https://huiwen-goy.github.io/C2-multidomain/C2-6Mobility.html)  
 [Quality of life](https://huiwen-goy.github.io/C2-multidomain/C2-7QoL.html)  
-[Mental health](https://huiwen-goy.github.io/C2-multidomain/C2-8Mental.html) 
+[Mental health](https://huiwen-goy.github.io/C2-multidomain/C2-8Mental.html)  
 [Social participation and support](https://huiwen-goy.github.io/C2-multidomain/C2-9Social.html)  
 [Views on hearing loss](https://huiwen-goy.github.io/C2-multidomain/C2-10Views.html)  
 
