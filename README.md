@@ -1,4 +1,4 @@
-#### A multi-domain self-report of health in older adults with and without hearing loss
+### A multi-domain self-report of health in older adults with and without hearing loss
 
 **Descriptives**  
 
