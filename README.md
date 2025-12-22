@@ -1,4 +1,6 @@
-### Descriptives
+#### A multi-domain self-report of health in older adults with and without hearing loss
+
+**Descriptives**  
 
 [Sample overview](https://huiwen-goy.github.io/C2-multidomain/C2-1Quality.html)  
 [Demographics](https://huiwen-goy.github.io/C2-multidomain/C2-2Demographic.html)  
@@ -11,6 +13,6 @@
 [Social participation and support](https://huiwen-goy.github.io/C2-multidomain/C2-9Social.html)  
 [Views on hearing loss](https://huiwen-goy.github.io/C2-multidomain/C2-10Views.html)  
 
-### Analyses  
+**Analyses**  
 
 [Exploratory analyses](https://huiwen-goy.github.io/C2-multidomain/C2-201Imputation.html)  
